@@ -1,5 +1,5 @@
 # Python for Data Science - Pokemon Project
-Class project analyzing Pokemon legendary status
+A class project analyzing Pokemon legendary status!
 
 # Introduction 
 
